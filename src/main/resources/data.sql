@@ -1,0 +1,21 @@
+INSERT INTO `stores` (name) VALUES ('Store 1');
+INSERT INTO `stores` (name) VALUES ('Store 2');
+INSERT INTO `stores` (name) VALUES ('Store 3');
+INSERT INTO `stores` (name) VALUES ('Store 4');
+INSERT INTO `stores` (name) VALUES ('Store 5');
+INSERT INTO `stores` (name) VALUES ('Store 6');
+INSERT INTO `stores` (name) VALUES ('Store 7');
+INSERT INTO `stores` (name) VALUES ('Store 8');
+INSERT INTO `stores` (name) VALUES ('Store 9');
+INSERT INTO `stores` (name) VALUES ('Store 10');
+
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 1', 10, 5, 1);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 2', 20, 10, 2);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 3', 30, 15, 3);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 4', 40, 20, 4);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 5', 50, 24, 5);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 6', 60, 30, 6);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 7', 70, 35, 7);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 8', 80, 40, 8);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 9', 90, 45, 9);
+INSERT INTO `products` (name, price, quantity, store_id) VALUES ('Product 10', 100, 1, 10);
